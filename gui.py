@@ -17,7 +17,7 @@ settings = {
     "FromUserName": "oLXjgjiWeAS1gfe4ECchYewwoyTc",
 
     # URL of your Wexin handler.
-    "url": "http://localhost:8080/weixin",
+    "url": "http://127.0.0.1/aa.asp",
 
     # These will be displayed in GUI.
     "mp_display_name": "APP",
